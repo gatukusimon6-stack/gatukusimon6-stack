@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to# Hi, I'm [Simon Gatuku]
 
-<!--
-**gatukusimon6-stack/gatukusimon6-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [Computer Programming at Mahanaim Colllege].
+- I'm interested in [acquiring skill in software development].
+- I'm looking to collaborate on [beginner-friendly open source projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Python,css and HTML]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](none) — short description
+
+## How to Reach Me
+- Email: [gatukusimon6@gmail.com]
+- LinkedIn: [https://github.com/gatukusimon6-stack/gatukusimon6-stack/tree/main] GitHub Desktop!
