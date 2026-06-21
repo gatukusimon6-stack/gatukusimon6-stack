@@ -11,7 +11,7 @@
 - Python
 
 ## Current Projects
-- My portfolio — This project explains who I am, the skills I have and projects that I've build.
+- My portfolio (https://gatukusimon6-stack.github.io/Project-My-Portfolio) — This project explains who I am, the skills I have and projects that I've build.
 
 ## How to Reach Me
 - Email: gatukusimon6@gmail.com
