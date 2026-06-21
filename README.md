@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, 👋I'm Simon Gatuku
 
-<!--
-**gatukusimon6-stack/gatukusimon6-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning AI
+- I'm interested in coding and building projects that help solve real world problems.
+- I'm looking to collaborate on projects that help solve real world problems.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Machine Learning
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- My portfolio — This project explains who I am, the skills I have and projects that I've build.
+
+## How to Reach Me
+- Email: gatukusimon6@gmail.com
+- LinkedIn: www.linkedin.com/in/simon-gatuku-b33924362
+
